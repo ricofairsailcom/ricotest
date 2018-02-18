@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 texto 112 + branch2
 =======
+=======
+texto 112 + branch2
+>>>>>>> 96c4d92... seguimos desarrollando
 esto es algo que necesita master
 >>>>>>> f7254cf... Es algo que necesita master
